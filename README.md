@@ -20,7 +20,7 @@
 
 Среднеквадратичный показатель ( RMSLE ) рассчитывается следующим образом:
 
-$\sqrt{ \frac{1}{n} \sum_{i=1}^n \left(\log (1 + \hat{y}_i) - \log (1 + y_i)\right)^2}
+$\sqrt{ \frac{1}{n} \sum_{i=1}^n \left(\log (1 + \hat{y}_i) - \log (1 + y_i)\right)^2}$
 
 где:
 
